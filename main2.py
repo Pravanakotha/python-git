@@ -3,6 +3,6 @@ def isPalindrome(s):
 s= "pravana"
 ans=isPalindrome(s)
 if ans:
-    print("yes")
+    print("yes Palindrome")
 else:
-    print("no")
+    print("No Palindrome")
